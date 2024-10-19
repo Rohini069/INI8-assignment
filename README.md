@@ -14,7 +14,7 @@ This project implements a registration system with CRUD operations using Python 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/INI8-assignment.git
+   git clone https://github.com/Rohini069/INI8-assignment.git
    cd INI8 assignment/backend
    ```
 2. Install dependencies (if you have a requirements.txt):
